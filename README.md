@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nat 👋
 
-<!--
-**natgp29/natgp29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm interested in building software, exploring computer systems, and learning through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+
+- Software Development
+- Computer Networks
+- Embedded Systems
+- Open Source Tools
+
+## 🛠️ Technologies
+
+- Python
+- C
+- Git & GitHub
+- Linux
+
+## 📂 Featured Project
+
+- **Self-Healing Network Monitor** – A Python-based network monitoring and automated recovery system developed as part of a Computer Networks course.
+
+## 📖 Currently
+
+- Building projects
+- Learning new technologies
+- Improving problem-solving skills
+
+---
+
+> *"Every project teaches something new."*
