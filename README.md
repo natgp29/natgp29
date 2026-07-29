@@ -1,6 +1,6 @@
 # Hi, I'm Nat 👋
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering -Cyber Security Student
 
 I'm interested in building software, exploring computer systems, and learning through hands-on projects.
 
