@@ -15,6 +15,7 @@ I'm interested in building software, exploring computer systems, and learning th
 
 - Python
 - C
+- Java
 - Git & GitHub
 - Linux
 
